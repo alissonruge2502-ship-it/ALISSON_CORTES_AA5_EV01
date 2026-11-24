@@ -1,0 +1,18 @@
+### PRUEBA DE REGISTRO
+POST http://localhost:8080/BlogPersonalWeb/api/auth/registro
+Content-Type: application/json
+
+{
+  "nombre": "Ana",
+  "correo": "ana@correo.com",
+  "contrasena": "Clave123"
+}
+
+### PRUEBA DE INICIO DE SESION
+POST http://localhost:8080/BlogPersonalWeb/api/auth/login
+Content-Type: application/json
+
+{
+  "correo": "ana@correo.com",
+  "contrasena": "Clave123"
+}

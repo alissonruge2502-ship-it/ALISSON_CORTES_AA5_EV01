@@ -1,0 +1,4 @@
+com\blogpersonal\util\PasswordUtil.class
+com\blogpersonal\model\Usuario.class
+com\blogpersonal\config\Conexion.class
+com\blogpersonal\servlet\AuthServlet.class

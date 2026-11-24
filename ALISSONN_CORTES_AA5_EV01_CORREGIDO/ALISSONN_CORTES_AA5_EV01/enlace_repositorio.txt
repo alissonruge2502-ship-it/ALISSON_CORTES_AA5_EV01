@@ -1,0 +1,4 @@
+PEGAR_AQUI_EL_ENLACE_REAL_DEL_REPOSITORIO_GITHUB
+
+Este archivo debe contener la URL del repositorio remoto donde se publique este proyecto.
+No se ha inventado una dirección porque se debe utilizar el repositorio real del aprendiz.
